@@ -12,8 +12,7 @@
 ### Backend:
 - Python
 - Django
-- GraphQL
 
 ### Frontend:
-- React?
+- React
 - Vite
